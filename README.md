@@ -6,3 +6,4 @@
 - Feh : to set the wallpaper
 - Polybar
 
+![](https://github.com/pmsilva84/myrice-dotfiles/blob/master/example.png)
