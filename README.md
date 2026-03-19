@@ -1,5 +1,7 @@
-# This is just the confings that I'm using on an rice project
-- Window Manenger : i3
+# Myrice dotfiles 🍚
+This is just the confings that I'm using on an rice project that I using in my distro at the moment.
+
+- Window Manenger : i3wm
 
 **Dependencies**
 - Ulauncher
