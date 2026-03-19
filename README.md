@@ -5,3 +5,4 @@
 - Ulauncher
 - Feh : to set the wallpaper
 - Polybar
+
